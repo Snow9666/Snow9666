@@ -2,5 +2,5 @@
 - 👀 I’m interested in Machine Learning, Active Learning and NER.
 - 🌱 I’m currently learning these topics above.
 
-Always be curious. 
+Always be curious.         
 Little wit is little wit.
